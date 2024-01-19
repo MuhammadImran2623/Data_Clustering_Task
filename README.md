@@ -1,0 +1,4 @@
+- Libraries : pandas,matplotlib,sklearn
+-Load the dataset and visualize the different classes with scatter plot
+-Extract features for clustering
+-Perform clustering and visualize different clusters 
